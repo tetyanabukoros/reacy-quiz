@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reacy-quiz/static/css/main.645c60eb.css",
+    "main.js": "/reacy-quiz/static/js/main.d5f93b58.js",
+    "index.html": "/reacy-quiz/index.html",
+    "main.645c60eb.css.map": "/reacy-quiz/static/css/main.645c60eb.css.map",
+    "main.d5f93b58.js.map": "/reacy-quiz/static/js/main.d5f93b58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.645c60eb.css",
+    "static/js/main.d5f93b58.js"
+  ]
+}
